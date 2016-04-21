@@ -189,3 +189,57 @@
     transform: translateX(-50%);
  }
 
+/* .footer{
+    max-height:150px;
+    width:100%;
+    background-color:#333333;
+    position:relative;
+    bottom:0;
+
+ }*/
+ 
+ .social{
+    max-height:50px;
+    background-color:#333333;
+    text-align:right;
+    display:block;
+    position:relative;
+    bottom:0;
+    width:100%;
+    padding:0;
+    margin-right:0;
+    
+
+ }
+ .social img{
+     
+     max-width:3vmax;
+     max-height:3vmax;
+     
+     height:auto;
+     display:inline-block;
+     list-style: none;
+     position:relative;
+     background-color:#333333;
+     width:100%;
+     padding:0;
+ }
+ 
+.footer {
+    /*clear: both;*/
+    position: relative;
+    margin-left:-10px;
+    margin-right:10px;
+    height: 15px;
+    
+    width:100%;
+}
+
+.copyright{
+    margin-left:10%;
+    text-align:left;
+    
+}
+.copyright h5{
+    font-size:1.5vmin;
+}
