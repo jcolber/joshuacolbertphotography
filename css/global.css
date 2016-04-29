@@ -67,12 +67,7 @@
     max-height:60px;
     min-width:200px;    
 }
-.navbar-brand2 img{
-    display:block;
-    margin-left:10px;
-    max-height: 100px;
-    
-}
+
 
 .header-container img{
     display:block;
@@ -280,4 +275,11 @@
 .home-text ul{
     text-align:left;
     display:inline-block;
+}
+
+.navbar-brand2 img{
+    display:inline-block;
+    
+    max-height:150px;
+    
 }
