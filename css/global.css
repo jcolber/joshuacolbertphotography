@@ -310,7 +310,7 @@
 /*cover letter*/
 
 .cover-letter body{
-   
+    
 }
 
 .cover-letter h1 {
@@ -332,8 +332,11 @@
     margin: 0 30px 50px 30px;
 }
 .cover-letter ul {
-    margin-top:0;
-    margin-left:30px;
+    text-align:center;
+}
+
+.coverletter li {
+    text-align:center;
 }
 
 .cover-letter h3 {
@@ -341,4 +344,9 @@
     font-weight:bold;
     margin-left:30px;
     margin-right:30px;
+}
+
+.outlines{
+    text-align:center;
+    position:relative;
 }
