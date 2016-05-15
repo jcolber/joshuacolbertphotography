@@ -112,6 +112,7 @@
     margin-top:75px;
 }
 
+
 .panoramic-2 {
     background-color:black;
    
@@ -249,37 +250,95 @@
 
 
 
-/*stuff for solar guy*/
+/*landscape page*/
 
-.carousel-inner img{
-    width:100%;
-    margin-top:12px;
-}
-
-.container-fluid2{
-    /*padding-top:1em;*/
-}
-
-.home-text{
+.landscape{
     text-align:center;
-    padding-right:2em;
-    padding-left:2em;
+    margin-top:6em;
+}
+
+.landscape img{
+    height:auto;
+    text-align:center;
+}
+.landscape2{
+    text-align:center;
+    margin-top:.5em;
+}
+
+.landscape2 img{
+    height:auto;
+    text-align:center;
+}
+
+.pano-description {
+    position:relative;
+    padding-top:10%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10%;
+    display:block;
+}
+.pano-description h1 {
+    margin-top:200px;
+    text-align:center;
+    font-size:2em;
+    
+}
+
+.pano-description h2{
+    font-size:1.5em;
+    text-align:center;
+}
+
+.pano-description p{
+    font-size:1em;
+    text-align:center;
+}
+
+.single-panoramic {
+    background-color:black;
+    padding-top:75px;
+    height:100%;
+}
+
+.pano-image {
+    position:absolute;
+    margin-top:60px;
+}
+
+/*cover letter*/
+
+.cover-letter body{
    
 }
 
-.home-text h1{
-    text-align:center;
-    font-size:1.5em;
-    font-weight:bold;
-}
-.home-text ul{
-    text-align:left;
-    display:inline-block;
+.cover-letter h1 {
+    text-align: left;
+    font-size:2em;
+    margin-top:80px;
+    margin-left:15px;
 }
 
-.navbar-brand2 img{
-    display:inline-block;
-    
-    max-height:150px;
-    
+.cover-letter h2 {
+    text-align: left;
+    font-size:1em;
+    margin-left:15px;
+}
+
+.cover-letter p {
+    text-align:left;
+    font-size:12pt;
+    margin: 0 30px 50px 30px;
+}
+.cover-letter ul {
+    margin-top:0;
+    margin-left:30px;
+}
+
+.cover-letter h3 {
+    font-size:12pt;
+    font-weight:bold;
+    margin-left:30px;
+    margin-right:30px;
 }
