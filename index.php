@@ -94,7 +94,7 @@
         
         <?php include'templates/footer.php';?>
         
-        <script>
+<!--        <script>
             (function(){
 
                 var parallax = document.querySelectorAll(".parallax"),
@@ -112,6 +112,6 @@
                 };
 
             })();
-        </script>
+        </script>-->
     </body>
 </html>
