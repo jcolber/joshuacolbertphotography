@@ -56,12 +56,7 @@
           </div>
         </section>
 
-        <section class="module content">
-          <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-          </div>
-        </section>
+
 
             <section class="module parallax parallax-2">
                 <a href="/panoramic/index.php" class="module parallax-2">
@@ -71,12 +66,7 @@
                     </a>
         </section>
 
-        <section class="module content">
-          <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-          </div>
-        </section>
+
 
         <section class="module parallax parallax-3">
           <div class="container">
@@ -84,17 +74,12 @@
           </div>
         </section>
 
-        <section class="module content">
-          <div class="container">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-          </div>
-        </section>
+
 
         
         <?php include'templates/footer.php';?>
         
-<!--        <script>
+        <script>
             (function(){
 
                 var parallax = document.querySelectorAll(".parallax"),
@@ -112,6 +97,6 @@
                 };
 
             })();
-        </script>-->
+        </script>
     </body>
 </html>
