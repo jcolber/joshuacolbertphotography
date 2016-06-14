@@ -14,7 +14,8 @@
             <div itemscope itemtype="https://schema.org/Photograph">
                 <a class="view col-xs-12">
                     <img itemprop="image" src="/images/5x7/Bird-Of-Paridise.jpg" class="img-responsive" alt="Bird of Paradise Flower, California" />
-                    <meta itemprop="creator" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> <br>
+                    <meta itemprop="creator" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                    <meta itemprop="about" content="Fine art Photograph of a Bird of Paradise Flower growing in La Jolla, Californa"<br>
                 </a> 
             </div>
             <div class="content">
