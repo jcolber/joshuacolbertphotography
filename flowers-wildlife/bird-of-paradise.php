@@ -19,10 +19,10 @@
                 </a> 
             </div>
             <div class="content">
-                <h1>
+                <h1 itemprop="name">
                     Bird of Paradise                 
                 </h1>
-                <h2>This was the first time a can recall ever seeing this flower and remembering what it was. Then years later I 
+                <h2 itemprop="description">This was the first time a can recall ever seeing this flower and remembering what it was. Then years later I 
                     went to Florida and saw them there too. So I'm guessing I've seen more than I know and just didn't realize it.
                     But it is a pretty cool flower, and I wish we had them in Utah. Good thing the California coast is only 
                     half a days drive away. This particular flower was in La Jolla, California when we were on our way to check out 
