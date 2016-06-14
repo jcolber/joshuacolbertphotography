@@ -3,7 +3,7 @@
     <head>
         <?php include('../templates/head.php'); ?>
 
-        <title>Bird of Paradise</title>
+        <title>Pacific Seaweed</title>
 
     </head>
     
@@ -11,21 +11,18 @@
         
         <?php include('../templates/navbar.php'); ?>    
         <div class="full-background col-xs-12">
-            <div itemscope itemtype="https://schema.org/Photograph">
-                <a class="view col-xs-12">
-                    <img itemprop="image" src="/images/5x7/Bird-Of-Paridise.jpg" class="img-responsive" alt="Bird of Paradise Flower, California" />
-                    <meta itemprop="creator" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> <br>
-                </a> 
-            </div>
+            <a class="view col-xs-12">
+                <img src="/images/5x7/Seaweed.jpg" class="img-responsive" alt="Seaweed, California, San Diego, Beach Photography, Ocean Photography"><br>
+            </a>       
             <div class="content">
                 <h1>
-                    Bird of Paradise                 
+                    Colors from the Sea                  
                 </h1>
-                <h2>This was the first time a can recall ever seeing this flower and remembering what it was. Then years later I 
-                    went to Florida and saw them there too. So I'm guessing I've seen more than I know and just didn't realize it.
-                    But it is a pretty cool flower, and I wish we had them in Utah. Good thing the California coast is only 
-                    half a days drive away. This particular flower was in La Jolla, California when we were on our way to check out 
-                    sea lions hanging out in the ocean.
+                <h2>On Thanksgiving in 2012, we drove from Salt Lake City straight through to San Diego and slept on the side of the
+                    road until the sun came up and then went exploring. We only stayed the day, but we saw sea lions, starfish, urchins, climbed 
+                    down ropes off a cliff to the beach, and saw just about everyone that owned a surfboard out in the water. While we were exploring
+                    I saw this mess of seaweed and sea stuff washed up on the beach and loved all the colors wrapped up in it. Though it may just be
+                    some ocean trash that washed up, I thought it was a neat enough mess to take a picture of.
                 </h2><br>
                     <?php include ('../templates/p1.php'); ?>
                 <?php include ('../templates/pricetable.php'); ?>
@@ -37,7 +34,7 @@
                         <input type="hidden" name="lc" value="US">
                        
                         <!--MAKE SURE TO CHANGE THIS TITLE-->
-                        <input type="hidden" name="item_name" value="Bird of Paradise">
+                        <input type="hidden" name="item_name" value="Seaweed">
                         <input type="hidden" name="button_subtype" value="products">
                         <input type="hidden" name="no_note" value="0">
                         <input type="hidden" name="cn" value="Add special instructions to the seller:">
