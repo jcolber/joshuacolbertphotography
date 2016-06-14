@@ -3,22 +3,25 @@
     <head>
         <?php include('../templates/head.php'); ?>
 
-        <title>INSERT TITLE</title>
+        <title>Sundial Peak, Wasatch Mountains, Utah</title>
 
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Sundial-Peak-Color.jpg" class="img-responsive" alt="Sundial Peak, Wasatch Moutnains, Rocky Mountains, Utah Landscape Photography, Josh Colbert"><br>
+                <img itemprop="image" src="/images/5x7/Sundial-Peak-Color.jpg" class="img-responsive" alt="Sundial Peak, Wasatch Moutnains, Rocky Mountains, Utah Landscape Photography, Josh Colbert">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Sundial Peak and Lake Blanche in the Wasatch Mountains of Utah"<br>                
+                
             </a>       
             <div class="content">
-                <h1>
+                <h1 imageprop="headline">
                     Sundial Peak                  
                 </h1>
-                <h2>This was from the first hike I took after our twins were born and has always been one of my favorite 
+                <h2 imageprop="description">This was from the first hike I took after our twins were born and has always been one of my favorite 
                     hikes to go on. I'm particularly fond of the rock formations and the colors just before you get to Lake
                     Blanche. It's a pretty strenuous hike at times, but it's definitely worth the work once you get to the 
                     lake and get to relax and take in the scenery.

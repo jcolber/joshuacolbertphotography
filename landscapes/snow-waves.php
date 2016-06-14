@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/SnowWaves.jpg" class="img-responsive" alt="Snow Formation, Mountaintop, Waves, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/SnowWaves.jpg" class="img-responsive" alt="Snow Formation, Mountaintop, Waves, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Fine art snow formation along mountain peaks in Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Snow Waves                  
                 </h1>
-                <h2>On our way to the top of Mt. Supirior and Monte Cristo, we passed this awesome looking formation in the snow.
+                <h2 itemprop="description">On our way to the top of Mt. Supirior and Monte Cristo, we passed this awesome looking formation in the snow.
                     I couldn't help but take a picture of it, and I love how the sun rays pop out from the top of the picture.
                     I love hiking, and love even more to take pictures of something that will be hard to come by ever again.
                     "Leave only footprints, and take only pictures" and I'm sure we left many footprints on that 12 hour 

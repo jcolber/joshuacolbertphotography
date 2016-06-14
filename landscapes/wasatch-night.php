@@ -3,7 +3,7 @@
     <head>
         <?php include('../templates/head.php'); ?>
 
-        <title>Sunset on Antelope Island</title>
+        <title>Wasatch Mountains at Night</title>
 
     </head>
     
@@ -12,19 +12,18 @@
         <?php include('../templates/navbar.php'); ?>    
         <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img itemprop="image" src="/images/5x7/AntelopeSunset.jpg" class="img-responsive" alt="Antelope Island, Utah Landscape Photography, Great Salt Lake">
+                <img itemprop="image" src="/images/5x7/Wasatch-Night.jpg" class="img-responsive" alt="Wasatch Mountains at night, Utah Night Photography, Salt Lake City">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Fine art sunset photo from Antelope Island in Utah"<br>
+                <meta itemprop="about" content="Taken during a summer night with a long exposure in the Wasatch Mountains of Utah"<br>
             </a>       
             <div class="content">
-                <h1 itemprop="name">
-                    Antelope Island Sunset                   
+                <h1 itemprop="headline">
+                    Wasatch Night                  
                 </h1>
-                <h2 itemprop="description">Antelope Island is a great place to go hike and explore. You can find big horned sheep, buffalo, jackrabbits, pronghorn, 
-                    bobcats, mule deer, coyotes, and a countless number of migrating birds. Make sure to take plenty of water because the sun is
-                    relentless and there isn't much for shade on the island. It's also fun to take a dip in the Great Salt Lake when you're 
-                    all finished and just float around for a little. Your skin will turn white when you dry off and your clothes will be stiff,
-                    but hey, thats the fun of swimming in a lake that contains 5-28% salt depending on the water level.
+                <h2 itemprop="description"> This was a picture taken at night on my way up to the "Living Room" behind Red Butte Gardens. 
+                    I think it was about 10:30 at night when this was taken, and I love the glow the mountains have from the city 
+                    lights. I guess one good thing comes from light pollution and living in a city. This is one of my favorite pictures I 
+                    have taken on the Wasatch Front.
                 </h2><br>
                     <?php include ('../templates/p1.php'); ?>
                 <?php include ('../templates/pricetable.php'); ?>
@@ -34,7 +33,9 @@
                         <input type="hidden" name="cmd" value="_cart">
                         <input type="hidden" name="business" value="jcolber@gmail.com">
                         <input type="hidden" name="lc" value="US">
-                        <input type="hidden" name="item_name" value="Antelope Island Sunset">
+                       
+                        <!--MAKE SURE TO CHANGE THIS TITLE-->
+                        <input type="hidden" name="item_name" value="Wasatch Night">
                         <input type="hidden" name="button_subtype" value="products">
                         <input type="hidden" name="no_note" value="0">
                         <input type="hidden" name="cn" value="Add special instructions to the seller:">

@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Antelope-Island-Tree.jpg" class="img-responsive" alt="Dead tree on Antelope Island, Sunset, Great Salt Lake, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/AntelopeSunset.jpg" src="/images/5x7/Antelope-Island-Tree.jpg" class="img-responsive" alt="Dead tree on Antelope Island, Sunset, Great Salt Lake, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Fine art sunset photo of a dead tree on Antelope Island in Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="name">
                     Dead Tree - Antelope Island                 
                 </h1>
-                <h2>I love taking photographs of dead trees in the foreground with an awesome background to finish the picture.
+                <h2 itemprop="description">I love taking photographs of dead trees in the foreground with an awesome background to finish the picture.
                     Between this one and the one I took in Arches National Park, I like the sunset on this. I have fond memories
                     of this hike, because it was the first time we actually made it to the summit of Frary Peak on Antelope Island.
                     The first time we ran out of water and almost passed out from dehydration on the way down. This trip allowed us to

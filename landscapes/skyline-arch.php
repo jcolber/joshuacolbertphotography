@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Skyline-Arch.jpg" class="img-responsive" alt="Moab, Arches National Park, Skyline Arch, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/Skyline-Arch.jpg" class="img-responsive" alt="Moab, Arches National Park, Skyline Arch, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Skyline Arch in Arches National Park, Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Skyline Arch                 
                 </h1>
-                <h2>Arches National Park is one of those places you have to visit the right time of year. Go on the wrong 
+                <h2 itemprop="description">Arches National Park is one of those places you have to visit the right time of year. Go on the wrong 
                     weekend and you're just walking around in a crowd of people. However, Living in Utah and being only 4 hours 
                     away from this amazing place makes any time a great time. My favorite thing to do when visiting the Moab 
                     area is to drive out to BLM land and camp out where there aren't too many people. Arches, Dead Horse Point, and 

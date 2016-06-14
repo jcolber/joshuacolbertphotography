@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Sunset.jpg" class="img-responsive" alt="Silouhette Sunset, Pine Trees, Salt Lake City, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/Sunset.jpg" class="img-responsive" alt="Silouhette Sunset, Pine Trees, Salt Lake City, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Sunset with pine trees in the foreground, brilliant orange sky"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Silhouetted Sunset                 
                 </h1>
-                <h2>Towards the end of my canyon to canyon hike, we were finally getting close to Lake Blanche and the sun was already
+                <h2 itemprop="description">Towards the end of my canyon to canyon hike, we were finally getting close to Lake Blanche and the sun was already
                     setting and we still had three miles to go once we got to the lake. Needless to say, the sunset was amazing and I always
                     liked the way the trees are just a silhouette and the sky is blazing behind them as the sun fades from view. 
                 </h2><br>

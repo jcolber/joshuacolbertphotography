@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph"  class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Downtown-SLC.jpg" class="img-responsive" alt="City photography, Downtown Salt Lake City, Salt Lake Temple, Devil Clouds, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/Downtown-SLC.jpg" class="img-responsive" alt="City photography, Downtown Salt Lake City, Salt Lake Temple, Devil Clouds, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Downtown Salt Lake City with clouds over the Temple"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="name">
                     Clouds Over the City                  
                 </h1>
-                <h2>This was from when I used to take my camera every single day, everywhere I went. Walking from Capitol Hill 
+                <h2 itemprop="description">This was from when I used to take my camera every single day, everywhere I went. Walking from Capitol Hill 
                     to downtown and these clouds were pretty neat looking. I've looked for a cool cloud formation like this 
                     ever since, and still haven't seen any that were quite like this. I don't really have many downtown Salt Lake 
                     pictures and even if I did, this would still be my favorite one I'm sure.

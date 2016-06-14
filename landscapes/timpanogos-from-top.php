@@ -10,15 +10,17 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/Timp-North.jpg" class="img-responsive" alt="Mt. Timpanogos, Wasatch Mountains, Rocky Mountains, Josh Colbert, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/Timp-North.jpg" class="img-responsive" alt="Mt. Timpanogos, Wasatch Mountains, Rocky Mountains, Josh Colbert, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="From the top of Mt. Timpanogos looking down the glacier towards the NorthEast"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Looking North off Timp                  
                 </h1>
-                <h2>Before we slid down the glacier on Timpanogos I took this picture, which is actually a panoramic, only square.
+                <h2 itemprop="description">Before we slid down the glacier on Timpanogos I took this picture, which is actually a panoramic, only square.
                     This is the view to the North East and way in the distance is the Uinta Mountain Range. Emerald Lake is the lake
                     that can be seen in this photo, and in the full quality version of this picture you can see the cabin that's down
                     by the lake. It's an awesome stopping point after you slide down the snow and want to rest up before the long hike 

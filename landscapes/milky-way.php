@@ -10,15 +10,18 @@
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view col-xs-12">
-                <img src="/images/5x7/MilkyWay.jpg" class="img-responsive" alt="Milky Way, Night Photography, Snowbird Ski Resort, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/5x7/MilkyWay.jpg" class="img-responsive" alt="Milky Way, Night Photography, Snowbird Ski Resort, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Milky Way over Snowbird Ski and Summer Resort in Utah"<br>
+                <br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Milky Way                 
                 </h1>
-                <h2>This picture was actually an accident and the only shot I have of it. After our hike from Little Cottonwood to 
+                <h2 itemprop="description">This picture was actually an accident and the only shot I have of it. After our hike from Little Cottonwood to 
                     Big Cottonwood, we got a ride back to the car at midnight and I set up the tripod for one last shot of the sky 
                     over Snowbird. It wasn't until the car ride back that I looked at the photos and saw this amazing galaxy that 
                     we get to be a part of. 
