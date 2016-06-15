@@ -5,21 +5,22 @@
         <meta name="Description" content="Storm blowing over Utah Valley and Utah Lake from the side of Timpanogos">      
         <title>Utah Valley Thunderstorm</title>
 
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Clouds-off-Timpanogos.jpg" class="img-responsive" alt="Storm Clouds, Mountain Storm, Thunderstorm, Panoramic, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Clouds-off-Timpanogos.jpg" class="img-responsive" alt="Storm Clouds, Mountain Storm, Thunderstorm, Panoramic, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic storm clouds over Utah valley from Mt. Timpanogos"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Utah Valley Storm                 
                 </h1>
-                <h2>This was a crazy time to be taking pictures because there was a crazy lightning storm blowing in straight towards 
+                <h2 itemprop="description">This was a crazy time to be taking pictures because there was a crazy lightning storm blowing in straight towards 
                     us when we were making our way to the top of Mt. Timpanogos. These clouds are amazing, especially when viewed at full 
                     resolution and blown up on print. This is my personal favorite picture that I've taken and it has a super fun story to go 
                     along with it. You can find that story <a href="../stories-through-pictures/">here</a> and a few other ones as well.

@@ -4,22 +4,22 @@
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Twin Peaks from the top of Monte Cristo with Lake Blanche in the foreground.">      
         <title>Twin Peaks and Lake Blanche</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Twin-Peaks.jpg" class="img-responsive" alt="Twin Peaks, Mountain Photography, Josh Colbert, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Twin-Peaks.jpg" class="img-responsive" alt="Twin Peaks, Mountain Photography, Josh Colbert, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic picture of the Twin Peaks and Lake Blanche, Wasatch Mountains, Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Twin Peaks                 
                 </h1>
-                <h2>This picture is similar to the last, except I took this one off Monte Cristo. Our goal was to walk the ridge to the Twin Peaks, but we couldn't get off Monte Cristo without
+                <h2 itemprop="description">This picture is similar to the last, except I took this one off Monte Cristo. Our goal was to walk the ridge to the Twin Peaks, but we couldn't get off Monte Cristo without
                     ropes because it was a cliff off the west side. Instead we walked back to Superior and slid down the snow field and hiked to Lake Blanche. You can read that full story
                     <a href='#'>here.</a> I highly recommend you check out the full story about this hike, loaded with photos.
                 </h2><br>

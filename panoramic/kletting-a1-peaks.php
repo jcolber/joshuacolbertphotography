@@ -3,23 +3,23 @@
     <head>
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Kletting Peak with A-1 to the East and mountain lakes below">      
-        <title>Kletting Peak, Uinta Mountains</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
+        <title>Kletting Peak, Uinta Mountains, Utah</title>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Keltting-A1-Peaks.jpg" class="img-responsive" alt="Utah Landscape Photography, Kletting Peak, A-1 Peak, Uinta Mountain Range, 12,000ft Mountains, Mountain Lakes"><br>
+                <img itemprop="image" src="/images/Pano/Keltting-A1-Peaks.jpg" class="img-responsive" alt="Utah Landscape Photography, Kletting Peak, A-1 Peak, Uinta Mountain Range, 12,000ft Mountains, Mountain Lakes">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="picture of Kletting and A-1 Peak in the Uintas"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Kletting Peak and A-1                
                 </h1>
-                <h2>A panoramic landscape photograph of two of my favorite peaks in the Uinta Mountain Range. 
+                <h2 itemprop="description">A panoramic landscape photograph of two of my favorite peaks in the Uinta Mountain Range. 
                     It took about twelve hours to the peaks and back, and God only knows how many miles we traveled. 
                     You can read more about this hike in the <a href="../stories-through-pictures/kletting-peak"> Stories Through Pictures</a> 
                     section of my website. Hope you enjoy reading about this adventure as much as I did doing it. 

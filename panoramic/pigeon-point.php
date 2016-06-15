@@ -4,22 +4,22 @@
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Pigeon Point Lighthouse along State Route 1 in California on the way to Santa Cruz">      
         <title>Pigeon Point Lighthouse</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Pigeon-Point-Lighthouse.jpg" class="img-responsive" alt="Lighthouse Photography, California Lighthouse, Pacific Coast, Beach Photography"><br>
+                <img itemprop="image" src="/images/Pano/Pigeon-Point-Lighthouse.jpg" class="img-responsive" alt="Lighthouse Photography, California Lighthouse, Pacific Coast, Beach Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Lighthouse picture in California, Pigeon Point"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Pigeon Point Lighthouse                
                 </h1>
-                <h2>If ever driving the Pacific Coast Highway, you might have a good chance of running into this 
+                <h2 itemprop="description">If ever driving the Pacific Coast Highway, you might have a good chance of running into this 
                     lighthouse. It's right off the road and definitely worth the stop. When we stumbled upon it we 
                     drove from Salt Lake City, all the way to San Bernardino and then all the way up the coast to San Francisco 
                     and back to Salt Lake City, all in one weekend. It was fin, but should have been spread out a lot more because

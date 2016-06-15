@@ -4,22 +4,22 @@
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Panoramic picture of Sundial Peak in the Wasatch Mountains near Salt Lake City, Utah">      
         <title>Sundial Peak, Wasatch Mountains</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Sundial-Peak.jpg" class="img-responsive" alt="Sundial Peak, Wasatch Mountains, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Sundial-Peak.jpg" class="img-responsive" alt="Sundial Peak, Wasatch Mountains, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic picture of Sundial Peak in the Wasatch Moutnains of Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Sundial Peak                 
                 </h1>
-                <h2>Sundial Peak is one of the best hikes Utah has to offer for sure. It's featured in magazines, guide books, and maps of the state, and is worth the hike to get there.
+                <h2 itemprop="description">Sundial Peak is one of the best hikes Utah has to offer for sure. It's featured in magazines, guide books, and maps of the state, and is worth the hike to get there.
                             My favorite part of this hike is where this photograph was taken because the color of the rocks and how green everything is around you. Not too much further than 
                             this picture was taken, you reach Lake Blanche, which is a great lake to sit by and watch fish eat bugs off the surface. In the background is Mt. Superior, and Monte Cristo, 
                             which are also fun hikes to do. If you're feeling like an adventure, start in Little Cottonwood and hit the peaks, and then hike down to Big Cottonwood Canyon. From the top 

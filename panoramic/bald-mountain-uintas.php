@@ -5,21 +5,23 @@
         <meta name="Description" content="Bald Mountain off the Mirror Lake Highway in the Uinta Mountain Range in Utah">      
         <title>Bald Mountain from Mirror Lake</title>
 
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Bald-Mountain.jpg" class="img-responsive" alt="Bald Mountain, Mirror Lake, Uinta Mountains, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Bald-Mountain.jpg" class="img-responsive" alt="Bald Mountain, Mirror Lake, Uinta Mountains, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Bald Mountain from Mirror Lake, Uinta picture"<br>
+            </a>       
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Bald Mountain and Mirror Lake                 
                 </h1>
-                <h2>If you've ever driven the Mirror Lake Scenic Highway, then you've definitely passed right by both of these features.
+                <h2 itemprop="description">If you've ever driven the Mirror Lake Scenic Highway, then you've definitely passed right by both of these features.
                     Just before reaching Mirror Lake the highway reaches a whopping 10,715 ft and is the highest paved road in Utah. Driving 
                     on this road has gotten me to a height that I've only reached hiking, which is pretty cool if you think about it. 
                     Most of the mountains in this range are 12,000+ ft, with the tallest being King's Peak at 13,534 ft. Bald Mountain is only

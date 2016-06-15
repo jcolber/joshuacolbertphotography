@@ -3,23 +3,23 @@
     <head>
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Flowers growing on the side of Mt. Timpanogos in the Wasatch Range, Utah">      
-        <title>Flowering Mountainside Panoramic Photo</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
+        <title>Flowers Growing on a Mountain</title>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Flowering-Mountain.jpg" class="img-responsive" alt="Panoramic Photography, Flowers growing on mountainside, Joshua Colbert, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Flowering-Mountain.jpg" class="img-responsive" alt="Panoramic Photography, Flowers growing on mountainside, Joshua Colbert, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic picture of flowers growing on side of mountain"<br>
             </a>       
             <div class="content">
-                <h1>
-                    Clouds off Bald Mountain                 
+                <h1 imageprop="headline">
+                    Flowers on Timpanogos                 
                 </h1>
-                <h2>A lovely photograph taken on the way up Mt. Timpanogos, which shows a rolling hillside with a ton of flowers 
+                <h2 imageprop="description">A lovely photograph taken on the way up Mt. Timpanogos, which shows a rolling hillside with a ton of flowers 
                     all over it. This picture was taken just before you cross back west toward Utah Valley and the final push to the 
                     peak. Shortly after this was taken, we came across a bunch of mountain goats and their kids. You can find more photos
                     from this hike and the whole story in my <a href="../stories-through-pictures/">Stories Through Pictures</a> section.

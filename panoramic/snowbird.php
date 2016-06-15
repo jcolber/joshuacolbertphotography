@@ -4,22 +4,22 @@
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Picture of Snowbird Ski and Summer Resort from Mt. Superior in June">      
         <title>Snowbird Ski and Summer Resort</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Snowbird.jpg" class="img-responsive" alt="Snowbird Ski Resort, Wasatch Mountains, Panoramic Photography, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Snowbird.jpg" class="img-responsive" alt="Snowbird Ski Resort, Wasatch Mountains, Panoramic Photography, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic photo of Snowbird Ski Resort in Utah"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Snowbird                
                 </h1>
-                <h2>I probably took the good majority of my photographs during this one particular hike. It's an amazing story
+                <h2 itemprop="description">I probably took the good majority of my photographs during this one particular hike. It's an amazing story
                     with even more pictures that you can find in my <a href="../stories-through-pictures/little-to-big-cottonwood">Stories Through Pictures</a> 
                     section.
                 </h2><br>

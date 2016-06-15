@@ -3,23 +3,23 @@
     <head>
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Hayden Peak from Kletting Peak in the Uinta Mountain Range of Utah">      
-        <title>Hayden Peak</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
+        <title>Hayden Peak, Uinta Mountain Range, Utah</title>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Hayden-Peak.jpg" class="img-responsive" alt="Rocky Mountains, Uinta Mountains, Hayden Peak, Mountain Lakes, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Hayden-Peak.jpg" class="img-responsive" alt="Rocky Mountains, Uinta Mountains, Hayden Peak, Mountain Lakes, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Hayden peak in the Uintas from Kletting Peak"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Hayden Peak
                 </h1>
-                <h2> Hayden Peak is a predominate peak that is impossible to miss when driving the Mirror Lake Highway through 
+                <h2 itemprop="description"> Hayden Peak is a predominate peak that is impossible to miss when driving the Mirror Lake Highway through 
                     the Uinta Mountains in Utah. I've always wanted to reach the peak of this and someday that will happen, I 
                     just need to bring ropes and all the gear for a couple day trip to make it better. This trip though, we 
                     didn't have any of that, nor did we have the time to try without. Once my boys are old enough, we will surely 

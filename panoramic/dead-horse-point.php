@@ -4,22 +4,22 @@
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Overlooking the Colorado River from Dead Horse Point State Park near Moab, Utah">      
         <title>Dead Horse Point Panoramic Photograph</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Dead-Horse-Point.jpg" class="img-responsive" alt="Dead Horse Point State Park, Colorado River, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Dead-Horse-Point.jpg" class="img-responsive" alt="Dead Horse Point State Park, Colorado River, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Dead Horse Point State Park, Colorado River, Utah picture"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 imageprop="headline">
                     Dead Horse Point                 
                 </h1>
-                <h2>If you've ever been to Moab, Utah, then chances are good you took the short drive to Dead Horse Point State Park. 
+                <h2 imageprop="description">If you've ever been to Moab, Utah, then chances are good you took the short drive to Dead Horse Point State Park. 
                     This is one of my favorite places to bring visitors from out of state because it's on the way to Moab and all you 
                     have to do is get out of the car and walk 50 feet to catch a breathtaking view of this landscape carved by the Colorado 
                     River. Then when you're leaving you can make a short drive and hit the Canyonlands National Park before embarking 

@@ -5,21 +5,23 @@
         <meta name="Description" content="A beautiful sunset captured from Frary Peak overlooking the Great Salt Lake on Antelope Island, Utah">      
         <title>Antelope Island Sunset Panoramic Photograph</title>
 
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Antelope-Sunset.jpg" class="img-responsive" alt="Antelope Island, Great Salt Lake, Utah, Panoramic Photography"><br>
+                <img itemprop="image" src="/images/Pano/Antelope-Sunset.jpg" class="img-responsive" alt="Antelope Island, Great Salt Lake, Utah, Panoramic Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic sunset on Antelop Island, Utah"<br>
+            </a>       
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Antelope Island Sunset                 
                 </h1>
-                <h2>This is almost like the other picture that I offer in my landscapes section, except it is a much longer picture
+                <h2 itemprop="description">This is almost like the other picture that I offer in my landscapes section, except it is a much longer picture
                     that actually lets you see what it was like from my point of view. I love taking and making panoramic pictures because
                     they all start as single images and when you're finally finished, you get this amazing picture that was hard to imagine 
                     just looking at each of the individual shot. I might ass that hiking to the top of Antelope Island is a very fun hike 

@@ -3,23 +3,23 @@
     <head>
         <?php include('../templates/head.php'); ?>
         <meta name="Description" content="Mt. Timpanogos from the large meadow, looking at the final destination">      
-        <title>Mt. Timpanogos</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
+        <title>Mt. Timpanogos, Wasatch Mountains, Utah</title>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/Timp.jpg" class="img-responsive" alt="Mt. Timpanogos, Mountain Meadow, Wasatch Mountains, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/Timp.jpg" class="img-responsive" alt="Mt. Timpanogos, Mountain Meadow, Wasatch Mountains, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic picture of Mount Timpanogos on the Wasatch Front"<br>
             </a>       
             <div class="content">
-                <h1>
+                <h1 itemprop="headline">
                     Mount Timpanogos                
                 </h1>
-                <h2>Timpanogos is impossible to miss when flying, or driving in from the south to Salt Lake City. Every time I see 
+                <h2 itemprop="description">Timpanogos is impossible to miss when flying, or driving in from the south to Salt Lake City. Every time I see 
                     this mountain, it makes me happy that I climbed it. We did this the long route, which was a 14 mile round trip
                     hike, but it was definitely worth it. Mountain goats hanging out at the top, feeding chipmunks on the peak, and 
                     sliding down the glacier made this worth the pain of wearing those stupid Vibram toe shoes. Read the full story 

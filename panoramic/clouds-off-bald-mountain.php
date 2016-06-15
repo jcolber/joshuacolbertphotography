@@ -2,24 +2,25 @@
 <html>
     <head>
         <?php include('../templates/head.php'); ?>
-        <meta name="Description" content="Bald Mountain off the Mirror Lake Highway in the Uinta Mountain Range in Utah">      
+        <meta name="Description" content="Panoramic Mountain Clouds">      
         <title>Clouds off Bald Mountain</title>
-
-        <?php include_once("../templates/analyticstracking.php") ?>
     </head>
     
     <body>
         
         <?php include('../templates/navbar.php'); ?>    
-        <div class="full-background col-xs-12">
+        <div itemscope itemtype="https://schema.org/Photograph" class="full-background col-xs-12">
             <a class="view2 col-xs-12">
-                <img src="/images/Pano/baldy-clouds.jpg" class="img-responsive" alt="Panoramic Clouds, Cloud Photography, Uinta Mountains, Utah Landscape Photography"><br>
+                <img itemprop="image" src="/images/Pano/baldy-clouds.jpg" class="img-responsive" alt="Panoramic Clouds, Cloud Photography, Uinta Mountains, Utah Landscape Photography">
+                <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
+                <meta itemprop="about" content="Panoramic cloud formation off Bald Mountain in the Uintas"<br>
+            </a>       
             </a>       
             <div class="content">
-                <h1>
+                <h1 imageprop="headline">
                     Clouds off Bald Mountain                 
                 </h1>
-                <h2>A panoramic black and white print of the breath-taking view from the side of 
+                <h2 itemprop="description">A panoramic black and white print of the breath-taking view from the side of 
                     Bald Mountain in the Uinta Mountain Range, off Mirror Lake Highway in Northern Utah.
                     This picture was taken just before going up and over the cornice to reach the top. I love
                     the cloud formation on this one the most.
