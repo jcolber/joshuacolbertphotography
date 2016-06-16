@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/Wasatch-Night.jpg" class="img-responsive" alt="Wasatch Mountains at night, Utah Night Photography, Salt Lake City">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Taken during a summer night with a long exposure in the Wasatch Mountains of Utah"<br>
+                <meta itemprop="about" content="Taken during a summer night with a long exposure in the Wasatch Mountains of Utah"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">

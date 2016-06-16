@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/Timp-North.jpg" class="img-responsive" alt="Mt. Timpanogos, Wasatch Mountains, Rocky Mountains, Josh Colbert, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="From the top of Mt. Timpanogos looking down the glacier towards the NorthEast"<br>
+                <meta itemprop="about" content="From the top of Mt. Timpanogos looking down the glacier towards the NorthEast"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">

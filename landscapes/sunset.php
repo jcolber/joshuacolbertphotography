@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/Sunset.jpg" class="img-responsive" alt="Silouhette Sunset, Pine Trees, Salt Lake City, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Sunset with pine trees in the foreground, brilliant orange sky"<br>
+                <meta itemprop="about" content="Sunset with pine trees in the foreground, brilliant orange sky"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">

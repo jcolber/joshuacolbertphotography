@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/Downtown-SLC.jpg" class="img-responsive" alt="City photography, Downtown Salt Lake City, Salt Lake Temple, Devil Clouds, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Downtown Salt Lake City with clouds over the Temple"<br>
+                <meta itemprop="about" content="Downtown Salt Lake City with clouds over the Temple"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="name">

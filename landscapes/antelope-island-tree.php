@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/AntelopeSunset.jpg" src="/images/5x7/Antelope-Island-Tree.jpg" class="img-responsive" alt="Dead tree on Antelope Island, Sunset, Great Salt Lake, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Fine art sunset photo of a dead tree on Antelope Island in Utah"<br>
+                <meta itemprop="about" content="Fine art sunset photo of a dead tree on Antelope Island in Utah"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="name">

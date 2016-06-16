@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/AntelopeSunset.jpg" class="img-responsive" alt="Antelope Island, Utah Landscape Photography, Great Salt Lake">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Fine art sunset photo from Antelope Island in Utah"<br>
+                <meta itemprop="about" content="Fine art sunset photo from Antelope Island in Utah"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="name">

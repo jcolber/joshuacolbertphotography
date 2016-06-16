@@ -14,7 +14,7 @@
             <a class="view col-xs-12">
                 <img itemprop="image" src="/images/5x7/Sundial-Peak-Color.jpg" class="img-responsive" alt="Sundial Peak, Wasatch Moutnains, Rocky Mountains, Utah Landscape Photography, Josh Colbert">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Sundial Peak and Lake Blanche in the Wasatch Mountains of Utah"<br>                
+                <meta itemprop="about" content="Sundial Peak and Lake Blanche in the Wasatch Mountains of Utah"><br>                
                 
             </a>       
             <div class="content">
