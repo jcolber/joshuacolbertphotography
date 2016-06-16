@@ -14,7 +14,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Bald-Mountain.jpg" class="img-responsive" alt="Bald Mountain, Mirror Lake, Uinta Mountains, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Bald Mountain from Mirror Lake, Uinta picture"<br>
+                <meta itemprop="about" content="Bald Mountain from Mirror Lake, Uinta picture"><br>
             </a>       
             </a>       
             <div class="content">

@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Keltting-A1-Peaks.jpg" class="img-responsive" alt="Utah Landscape Photography, Kletting Peak, A-1 Peak, Uinta Mountain Range, 12,000ft Mountains, Mountain Lakes">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="picture of Kletting and A-1 Peak in the Uintas"<br>
+                <meta itemprop="about" content="picture of Kletting and A-1 Peak in the Uintas"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">

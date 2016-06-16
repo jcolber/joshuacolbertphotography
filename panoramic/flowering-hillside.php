@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Flowering-Mountain.jpg" class="img-responsive" alt="Panoramic Photography, Flowers growing on mountainside, Joshua Colbert, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Panoramic picture of flowers growing on side of mountain"<br>
+                <meta itemprop="about" content="Panoramic picture of flowers growing on side of mountain"><br>
             </a>       
             <div class="content">
                 <h1 imageprop="headline">

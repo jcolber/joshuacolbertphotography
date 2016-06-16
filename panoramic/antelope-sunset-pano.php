@@ -14,7 +14,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Antelope-Sunset.jpg" class="img-responsive" alt="Antelope Island, Great Salt Lake, Utah, Panoramic Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Panoramic sunset on Antelop Island, Utah"<br>
+                <meta itemprop="about" content="Panoramic sunset on Antelop Island, Utah"><br>
             </a>       
             </a>       
             <div class="content">

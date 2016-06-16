@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Dead-Horse-Point.jpg" class="img-responsive" alt="Dead Horse Point State Park, Colorado River, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Dead Horse Point State Park, Colorado River, Utah picture"<br>
+                <meta itemprop="about" content="Dead Horse Point State Park, Colorado River, Utah picture"><br>
             </a>       
             <div class="content">
                 <h1 imageprop="headline">

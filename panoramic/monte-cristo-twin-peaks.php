@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Monte-Cristo-Twin-Peaks-Lake-Blanche.jpg" class="img-responsive" alt="Lake Blanche, Twin Peaks, Monte Cristo, Utah Backcountry, Mountaintop, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="picture of Monte Cristo from Mt. Superior in Utah"<br>
+                <meta itemprop="about" content="picture of Monte Cristo from Mt. Superior in Utah"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">

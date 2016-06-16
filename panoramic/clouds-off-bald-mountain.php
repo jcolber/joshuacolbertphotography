@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/baldy-clouds.jpg" class="img-responsive" alt="Panoramic Clouds, Cloud Photography, Uinta Mountains, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Panoramic cloud formation off Bald Mountain in the Uintas"<br>
+                <meta itemprop="about" content="Panoramic cloud formation off Bald Mountain in the Uintas"><br>
             </a>       
             </a>       
             <div class="content">

@@ -13,7 +13,7 @@
             <a class="view2 col-xs-12">
                 <img itemprop="image" src="/images/Pano/Hayden-Peak.jpg" class="img-responsive" alt="Rocky Mountains, Uinta Mountains, Hayden Peak, Mountain Lakes, Utah Landscape Photography">
                 <meta itemprop="creator" type="person" content="Joshua Colbert"><meta itemprop="copyrightHolder" content="Joshua Colbert Photography"><meta itemprop="copyrightYear" content="2012"> 
-                <meta itemprop="about" content="Hayden peak in the Uintas from Kletting Peak"<br>
+                <meta itemprop="about" content="Hayden peak in the Uintas from Kletting Peak"><br>
             </a>       
             <div class="content">
                 <h1 itemprop="headline">
