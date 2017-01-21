@@ -7,7 +7,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/index.php"><img src="../images/ohd-logo.svg" class="img-responsive" alt="Joshua Colbert Photography"></a>
+                    <a class="navbar-brand" href="/index.php"><img src="../images/JDC.png" class="img-responsive" alt="Joshua Colbert Photography"></a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
