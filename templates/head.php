@@ -1,22 +1,24 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <meta name="google-site-verification" content="8iJmFuWpEB2THqYU61-cW67NVcy_M3k1uB0zR__r13g" />
+        <meta name="p:domain_verify" content="9dd5b46885dfeb1ac6faa4176514f3b0"/>
         
-        <link type="text/css" rel="stylesheet" href="/css/bootstrap.css" />
-        <link type="text/css" rel="stylesheet"  href="/css/global.css" /> 
         
-        <script src="/js/jquery.js"></script>
-        <script src="/js/jquery-ui.min.js"></script>
+        <link async type="text/css" rel="stylesheet" href="/css/bootstrap.css" />
+        <link async type="text/css" rel="stylesheet"  href="/css/global.css" /> 
+
+        <!-- js -->        
+        <script async src="/js/jquery.js"></script>
+        <script async src="/js/jquery-ui.min.js"></script>
          <!--Latest compiled and minified JavaScript--> 
                 
-        <script src="/js/bootstrap.js"></script>
-        <script src="/js/global.js"></script>
+        <script async src="/js/bootstrap.js"></script>
+        <script async src="/js/global.js"></script>
         
-        <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'  />
-        <link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css' />
-        <link href='https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Mate+SC|Ubuntu+Condensed' rel='stylesheet' type='text/css' />
+        <link async href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'  />
+        <link async href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css' />
+        <link async href='https://fonts.googleapis.com/css?family=Nothing+You+Could+Do|Mate+SC|Ubuntu+Condensed' rel='stylesheet' type='text/css' />
 
         <link rel="apple-touch-icon" sizes="57x57" href="/images/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="/images/favicon/apple-icon-60x60.png">
