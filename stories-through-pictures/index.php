@@ -14,7 +14,7 @@
         <br>
         <br>
         <br>
-        Blank Page for now, please go back to the gallery
+        fuck fuckity fuck fuck
         <br>
         <br>
         
