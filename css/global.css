@@ -518,4 +518,11 @@ cover letter
     margin-left:auto;
     margin-right:auto;
     margin-top:2%;
-    
+    }
+
+.main p {
+    text-align:center;
+    font-size:16pt;
+    color:black;
+    margin-top:20%;
+}
